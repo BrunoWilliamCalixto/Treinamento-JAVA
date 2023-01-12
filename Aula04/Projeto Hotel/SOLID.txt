@@ -1,0 +1,14 @@
+o que é SOLID?
+
+Solid é um termo/acrônimo de 5 principios da orientação a objetos.
+
+1- S = Single responsability principle - princípio de responsabilidade única.
+ou seja, quando estivermos criando uma classe, ela deve possuir uma única responsabilidade.
+
+2- O = Open-Closed principle - Princípio do aberto e fechado.
+ou seja, prega que quando temos algo criado, ou está sendo utilizado por outras coisas, eu devo mante-lo fehcado, ou seja eu não posso alterá-lo algo que está em funcionamento
+
+3- L = Liskov Substitution Principle - Princípio de susbstituição de Liskov.
+ou seja, uma classe derivada deve ser substituido pela sua classe base.
+
+4- I = 
